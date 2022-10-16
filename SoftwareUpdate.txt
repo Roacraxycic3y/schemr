@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+ultralytics 8.1.33 fix HUB model checks (#9153)
