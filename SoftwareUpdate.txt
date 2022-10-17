@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
