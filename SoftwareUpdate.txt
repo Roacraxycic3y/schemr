@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
