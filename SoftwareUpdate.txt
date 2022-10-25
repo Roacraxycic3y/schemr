@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
