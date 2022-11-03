@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
