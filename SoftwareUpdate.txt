@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
