@@ -1,1 +1,1 @@
-add yolov10
+Update Colab notebook for YOLOv8.1 (#8660)
