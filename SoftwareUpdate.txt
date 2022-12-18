@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Allow Annotator PIL.Image inputs (#8397)
