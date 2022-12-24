@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Update neural-magic.md (#7347)
