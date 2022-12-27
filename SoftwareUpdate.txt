@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
