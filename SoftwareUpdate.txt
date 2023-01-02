@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+OpenVino 2024.0.0 (#8726)
