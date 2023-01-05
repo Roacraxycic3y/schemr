@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
