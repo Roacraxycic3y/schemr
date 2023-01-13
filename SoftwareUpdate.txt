@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
