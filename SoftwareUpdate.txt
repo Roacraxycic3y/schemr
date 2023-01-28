@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update mkdocs.yml (#7693)
