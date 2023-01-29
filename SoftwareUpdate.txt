@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Clarify triton server boolean value (#8532)
