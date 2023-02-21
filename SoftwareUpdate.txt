@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
