@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add integrations/gradio Docs page (#7935)
