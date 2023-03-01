@@ -1,1 +1,1 @@
-example Google Colab
+Compress docs images (#8124)
