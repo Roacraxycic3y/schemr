@@ -1,1 +1,1 @@
-add yolov10
+Update neural-magic.md (#7347)
