@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
