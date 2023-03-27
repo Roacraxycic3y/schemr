@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
