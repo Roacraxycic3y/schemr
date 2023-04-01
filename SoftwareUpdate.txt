@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
