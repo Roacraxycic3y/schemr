@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix ONNX GPU inference bug (#6840)
