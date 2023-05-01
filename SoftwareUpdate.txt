@@ -1,1 +1,1 @@
-add logs
+Update inference.cpp (bug) (#7279)
