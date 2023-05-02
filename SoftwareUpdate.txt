@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fixed RTDETR GFLOPs bug (#7309)
