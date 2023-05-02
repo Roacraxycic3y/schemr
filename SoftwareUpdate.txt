@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Merge pull request #22 from SkalskiP/patch-1
