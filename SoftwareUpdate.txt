@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add plot_images conf_thresh parameter (#8446)
