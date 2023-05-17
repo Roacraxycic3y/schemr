@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update pyproject.toml and Docs (#7274)
