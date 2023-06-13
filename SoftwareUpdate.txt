@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
