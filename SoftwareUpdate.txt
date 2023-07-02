@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Replacing Images for torchscript.md (#8596)
