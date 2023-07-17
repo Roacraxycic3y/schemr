@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Segment TensorRT batch=3 fix (#7952)
