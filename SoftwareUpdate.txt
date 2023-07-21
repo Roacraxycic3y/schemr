@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Fix OBB xywh-angle concatenation bug (#7404)
