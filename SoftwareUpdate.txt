@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add Amazon Sagemaker Docs integrations page (#7293)
