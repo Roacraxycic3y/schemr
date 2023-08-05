@@ -1,1 +1,1 @@
-fix non-coco val
+Optimize function calls to method calls (#8507)
