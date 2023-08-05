@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add YOLOv8 LibTorch C++ inference example (#7090)
