@@ -1,1 +1,1 @@
-fix resume training
+Add HUB-SDK docs (#7775)
