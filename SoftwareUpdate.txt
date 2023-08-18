@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
