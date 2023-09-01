@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
