@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+docs: update view-results-in-terminal.md (#66)
