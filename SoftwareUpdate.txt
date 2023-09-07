@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
