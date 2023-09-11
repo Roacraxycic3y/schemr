@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Remove unused variables (#8511)
