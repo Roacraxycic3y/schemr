@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+YOLOv8 INT8 TFLite Inference Example (#7317)
