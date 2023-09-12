@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
