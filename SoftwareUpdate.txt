@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
