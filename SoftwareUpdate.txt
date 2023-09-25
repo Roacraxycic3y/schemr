@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
