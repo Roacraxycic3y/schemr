@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
