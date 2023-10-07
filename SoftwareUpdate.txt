@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
