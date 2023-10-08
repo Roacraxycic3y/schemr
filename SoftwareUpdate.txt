@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Replacing Images for torchscript.md (#8596)
