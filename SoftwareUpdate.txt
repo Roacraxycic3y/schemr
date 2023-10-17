@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
