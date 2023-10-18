@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update pyproject.toml and Docs (#7274)
