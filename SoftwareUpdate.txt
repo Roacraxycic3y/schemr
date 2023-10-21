@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
