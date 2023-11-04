@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
