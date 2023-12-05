@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add plot_images conf_thresh parameter (#8446)
