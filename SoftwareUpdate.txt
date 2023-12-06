@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
