@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
