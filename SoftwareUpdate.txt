@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add Neural Magic Docs integrations page (#7234)
