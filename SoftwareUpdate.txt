@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
