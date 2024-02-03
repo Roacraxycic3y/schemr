@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Capitalize OBB acronym (#7383)
