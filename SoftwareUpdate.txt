@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.0.228 add training time argument (#7054)
