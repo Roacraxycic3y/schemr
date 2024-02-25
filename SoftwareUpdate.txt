@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add TFLite Docs Integrations Page (#8522)
