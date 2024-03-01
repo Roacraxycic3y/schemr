@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
