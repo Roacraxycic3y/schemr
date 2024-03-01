@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+docs: update view-results-in-terminal.md (#66)
