@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fix TypeError in check_cfg() (#9245)
