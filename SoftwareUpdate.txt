@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
