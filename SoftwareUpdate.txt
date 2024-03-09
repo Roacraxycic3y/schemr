@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
