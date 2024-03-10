@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
