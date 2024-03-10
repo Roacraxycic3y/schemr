@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update docs building code (#7601)
