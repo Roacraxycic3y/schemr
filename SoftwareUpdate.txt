@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
