@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
