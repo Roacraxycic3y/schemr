@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
