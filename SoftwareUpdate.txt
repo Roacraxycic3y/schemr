@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
