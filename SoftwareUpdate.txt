@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+New test for labels and crops (#8861)
