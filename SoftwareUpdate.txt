@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+docs: update view-results-in-terminal.md (#66)
