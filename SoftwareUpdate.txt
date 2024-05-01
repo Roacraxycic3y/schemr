@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add horizontal Mosaic3 augmentation (#6898)
