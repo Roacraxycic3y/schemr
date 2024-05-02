@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Replace onnx2tf usage from CLI to Python (#8429)
