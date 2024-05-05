@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
