@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
