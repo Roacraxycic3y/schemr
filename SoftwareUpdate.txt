@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
