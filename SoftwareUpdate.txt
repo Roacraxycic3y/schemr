@@ -1,1 +1,1 @@
-fix non-coco val
+fix for KeyError: 'epoch' (#48)
