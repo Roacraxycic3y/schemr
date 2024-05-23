@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
